@@ -380,7 +380,7 @@ var replacer = strings.NewReplacer(
 
 // escapeControl escapes control characters in a string for safe display.
 func escapeControl(s string) string {
-	return replacer.Replace(s)
+	return ""
 }
 
 // detectColor checks environment variables to determine if color output should be enabled.
