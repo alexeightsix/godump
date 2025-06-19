@@ -1,4 +1,4 @@
-module github.com/goforj/godump
+module github.com/alexeightsix/godump
 
 go 1.23
 
